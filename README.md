@@ -29,6 +29,4 @@ A simple calculator application developed using Python and Tkinter.
 1. Install Python.
 2. Download or clone this repository.
 3. Open the project folder.
-4. Run:
-
-python calculator.py
+4. Run: python calculator.py
